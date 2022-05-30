@@ -1,0 +1,7 @@
+@use '../abstracts/' as *;
+
+@keyframes circle-appear {
+  to {
+    clip-path: circle(165%);
+  }
+}
