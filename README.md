@@ -1,6 +1,6 @@
-# Be Sweet Website
+# Be Sweet (not responsive)
 
-This is my 18th project which is a website for the clip 'Be Sweet' from the artist 'Japanese Breakfast'.
+This is a website for the clip 'Be Sweet' from the artist 'Japanese Breakfast' coded with JavaScript.
 
 (The design is by Chloé Hateau)
 
